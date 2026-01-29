@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 **Currently building:** * **Cyber-Guild:** A premier online Software House.
+🔭 **Currently building:** **Cyber-Guild:** A premier online Software House.
 * **Glassheart AI:** Pioneering data science research and generative AI.
 * **AI Media Platform:** An end-to-end suite for high-fidelity AI image and video generation.
 * **Gemini-Commerce:** Integrating Google Gemini LLM into a multi-vendor MERN marketplace for next-gen UX.
