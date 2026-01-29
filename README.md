@@ -43,12 +43,8 @@
 ---
 
 # 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MotaSaith&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=MotaSaith&theme=dark&hide_border=false" height="150" />
-</p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MotaSaith&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats:
+![GitHub Metrics](https://github.com/MotaSaith/MotaSaith/blob/main/github-metrics.svg)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MotaSaith&theme=radical&no-frame=false&no-bg=true&margin-w=4)
