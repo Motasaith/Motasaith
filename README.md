@@ -43,11 +43,5 @@
 ---
 
 # 📊 GitHub Stats:
-# 📊 GitHub Stats:
 ![GitHub Metrics](https://github.com/MotaSaith/MotaSaith/blob/main/github-metrics.svg)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MotaSaith&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=MotaSaith&icon=0&color=0)](https://visitcount.itsvg.in)
