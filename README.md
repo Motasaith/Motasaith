@@ -1,47 +1,141 @@
-# 💫 About Me:
+<div align="center">
 
-🔭 **Currently building:** **Cyber-Guild:** A premier online Software House.
-* **Glassheart AI:** Pioneering data science research and generative AI.
-* **AI Media Platform:** An end-to-end suite for high-fidelity AI image and video generation.
-* **Gemini-Commerce:** Integrating Google Gemini LLM into a multi-vendor MERN marketplace for next-gen UX.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=220&section=header&text=Abdul%20Rauf%20Azhar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20AI%20%2F%20Automation%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-👯 **Open to Collaboration:** Advanced Generative AI research, LLM-MERN integrations, and open-source image processing (restoration/upscaling) or automation workflows.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=680&lines=Building+AI-native+products%2C+not+just+wrappers;Next.js+%2B+FastAPI+%2B+LLMs+%2B+automation;Currently+shipping+PromptCut+%26+Stickman+Studio;BS+Data+Science+%26+AI+%40+KFUEIT+%C2%B7+2027" alt="Typing SVG" />
+</a>
 
-🤝 **Help needed with:** Scaling distributed systems for heavy GPU/Video workloads and fine-tuning Gemini API implementations for production.
+<br/>
 
-🌱 **Currently Learning:** Deep learning architectures for Computer Vision and production-grade Data Science optimization.
+<img src="https://img.shields.io/badge/📍-Rahim%20Yar%20Khan,%20Pakistan-7C3AED?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/🏢-Bina%20Codes-06B6D4?style=for-the-badge&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/🎓-KFUEIT%20%7C%20Data%20Science%20%26%20AI-7C3AED?style=for-the-badge&labelColor=1a1a2e"/>
 
-💬 **Ask me about:** MERN Stack, Gemini AI, Big Data (Spark/Hadoop), and building automated AI pipelines.
+</div>
 
-⚡ **Fun Fact:** I’m bridging the gap between e-commerce and neural networks by letting Gemini handle user interactions in my store.
+<br/>
 
----
+## ⚡ About Me
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abdulrauf.azhar_77636) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rauf-azhar-5750a3378) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/abdulraufazhar) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Abdul-Rauf-Azhar) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saithmota@gmail.com) 
+I'm a full-stack and AI/automation developer based in Pakistan, running my own dev venture **[Bina Codes](https://github.com/MotaSaith)** while finishing a **BS in Data Science & AI at KFUEIT** (2027) and interning at **Wise Technologies**. I build products end-to-end — backend, frontend, infra, and the AI pipeline that makes them actually smart — rather than gluing an API key onto a template.
 
----
+```yaml
+role:        Full Stack Developer | AI & Automation
+stack:       Next.js · React · FastAPI · Python · Supabase · PostgreSQL · Drizzle ORM
+infra:       Neon · Cloudflare R2 · Cloudflare Pages/Workers · GitHub Actions · VPS (PM2/Nginx)
+ai_tooling:  Ollama Cloud (Kimi, MiniMax, Qwen) · vision-LLM pipelines · agentic tool-use
+build_env:   Claude Code · Cursor
+currently:   shipping prompt-driven AI video/animation editors + FBR tax automation for Pakistan
+```
 
-# 💻 Tech Stack:
+<br/>
 
-### 🧠 AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+## 🚀 What I'm Building
 
-### 🐘 Big Data
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🌐 Web & Mobile Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+### 🎬 PromptCut
+Describe an edit in plain English or voice — *"blur the faces, add captions, make it a TikTok"* — and the AI turns it into real, undoable ops on a video timeline, rendered by FFmpeg.
 
-### 🚀 DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+`Next.js` `LLM planning + vision QA` `FFmpeg`
 
----
+</td>
+<td width="50%" valign="top">
 
-# 📊 GitHub Stats:
-![GitHub Metrics](https://github.com/MotaSaith/MotaSaith/blob/main/github-metrics.svg)
+### 🕺 Stickman Studio
+An AI that animates like an actual animator: it draws props, poses stick-figure rigs, and sets keyframes on a real timeline — not generated video, an editable scene you can drag and retime.
 
+`Canvas rendering` `IK rigging` `Vision-checked AI planning`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📼 AIVideo / Narrashot
+Turns a stack of screenshots into a narrated tutorial video — AI-written script, TTS voiceover, animated zoom-and-pan, multi-aspect-ratio export.
+
+`Next.js` `FastAPI` `FFmpeg` `Multi-provider TTS`
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 ChatGrain
+Self-hosted alternative to Chatbase — crawls a site, builds a hybrid (vector + full-text + title) search index, and answers with cited, on-brand chat.
+
+`Next.js monorepo` `RAG` `Reciprocal rank fusion`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧮 Toolhive
+40+ free, privacy-first browser tools — image, video, PDF, and dev utilities — live at **toolhive.me**.
+
+`Next.js 16` `React 19` `Supabase` `Clerk`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 AsaanTax PK
+AI-driven FBR tax filing for Pakistani freelancers — document extraction, wealth-statement reconciliation, and PSID generation in minutes instead of a middleman.
+
+`Next.js` `Drizzle` `LLM extraction`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,python,fastapi,postgres,supabase,ts,js,tailwind,threejs,cloudflare,git,github,docker,vercel,nodejs&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MotaSaith&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=7C3AED&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MotaSaith&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MotaSaith&theme=radical&hide_border=true&background=0d1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/MotaSaith/MotaSaith/output/github-contribution-grid-snake-dark.svg" />
+
+<sub>Generated by the <code>snake.yml</code> workflow below — swap for your light-mode variant if you prefer.</sub>
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/abdul-rauf-azhar-5750a3378"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:saithmota@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://discord.gg/abdulrauf.azhar_77636"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://codepen.io/Abdul-Rauf-Azhar"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=120&section=footer"/>
