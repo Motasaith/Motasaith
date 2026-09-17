@@ -106,10 +106,7 @@ AI-driven FBR tax filing for Pakistani freelancers — document extraction, weal
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MotaSaith&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=7C3AED&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MotaSaith&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=06B6D4&text_color=c9d1d9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MotaSaith&theme=radical&hide_border=true&background=0d1117&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4"/>
+<img src="./profile/streak.svg" />
 
 </div>
 
