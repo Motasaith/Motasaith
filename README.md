@@ -21,7 +21,8 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2400&pause=1100&color=06B6D4&center=true&vCenter=true&width=760&lines=Full-stack+%2B+AI%2Fautomation+developer;BS+Data+Science+%26+AI+%C2%B7+KFUEIT+%C2%B7+2027;Interning+at+Wise+Technologies;stack:+Next.js+%C2%B7+React+%C2%B7+FastAPI+%C2%B7+Python+%C2%B7+Supabase+%C2%B7+Postgres;infra:+Neon+%C2%B7+Cloudflare+R2%2FPages%2FWorkers+%C2%B7+GitHub+Actions+%C2%B7+VPS;ai_tooling:+Ollama+Cloud+%C2%B7+vision-LLM+pipelines+%C2%B7+agentic+tool-use;build_env:+Claude+Code+%C2%B7+Cursor;currently:+shipping+AI+video%2Fanimation+editors+%2B+FBR+tax+automation" alt="About Me" />
 </div>
-I'm a full-stack and AI/automation developer based in Pakistan, finishing a **BS in Data Science & AI at KFUEIT** (2027) and interning at **Wise Technologies**. I build products end-to-end — backend, frontend, infra, and the AI pipeline that makes them actually smart — rather than gluing an API key onto a template.
+
+I'm a full-stack and AI/automation developer based in Pakistan, finishing a **BS in Data Science & AI at KFUEIT** (2027) and interning at **Wise Technologies**. I build products end-to-end - backend, frontend, infra, and the AI pipeline that makes them actually smart - rather than gluing an API key onto a template.
  
 ```yaml
 role:        Full Stack Developer | AI & Automation
