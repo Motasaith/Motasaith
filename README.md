@@ -108,7 +108,7 @@ AI-driven FBR tax filing for Pakistani freelancers — document extraction, weal
 
 <img src="./profile/streak.svg" />
 
-<img src="./profile/github-metrics.svg" />
+<img src="/github-metrics.svg" />
 
 </div>
 
